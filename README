@@ -1,0 +1,7 @@
+bij error op wsl doe: 
+export LD_LIBRARY_PATH=/usr/lib/wsl/lib:$LD_LIBRARY_PATH
+
+
+Maak deze dirs aan:
+src/underwater/pretrained
+src/underwater/datasets
